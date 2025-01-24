@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning how linux works
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about my qtile dotfiles
+- 😔 Sad fact: I am unemployed
+- 📫 How to reach me: jorgerxbc@gmail.com
 <!--
 **jorgerxbc/jorgerxbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
